@@ -42,5 +42,4 @@ public class EmployeeUtility {
         baseResponse.setResult(getResult());
         return baseResponse;
     }
-
 }
